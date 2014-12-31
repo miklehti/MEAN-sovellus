@@ -1,0 +1,4 @@
+MEAN-sovellus
+=============
+
+MEAN projekti
